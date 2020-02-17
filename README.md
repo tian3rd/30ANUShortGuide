@@ -52,7 +52,11 @@ Unilodge:
 
 #### How to get a student card?
 
+First, get a tranport card: MyWay card from local recharge agents or Access Canberra: https://www.transport.act.gov.au/tickets-and-myway/get-myway
 
+Second, show the clerk your e-CoE or your student card to upgrade your card to student card. 
+
+For students, on school days it's charged $$1.22/trip; on non-school days it's $1.61/trip. See more: https://www.transport.act.gov.au/tickets-and-myway/fares 
 
 ### Railway
 
@@ -78,14 +82,6 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - Free facility hire: ANU Sport facilities are available to ANU students free of charge every weekday before 2pm for an hour per student group. All you need to do is drop into ANU Sport when you wish to make your booking and show your ANU student ID. Booking for the free facility hire are **drop in** only and cannot be made in advance.
 
 - Hourly facility rates: https://www.anu-sport.com.au/facilities/facility-pricing-guide
-
-
-
-## Policy-related
-
-### ACS
-
-### Matrix
 
 
 
