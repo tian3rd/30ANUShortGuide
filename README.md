@@ -16,12 +16,19 @@
 
 - My day 1:
   - Where's what @Kambri: It's basically a show-around tour of a central park of the uni. Start from kambri, walk to CBE through Copland building and look around some unilodge halls then take a turn to go to school of arts and walk on the grass to the law school and turn around to fellows oval and end in the university avenue to look for the welcome of your school fellas. 
-  - Set4ANU @Marie Reay L6: Basically a face to face chat with old blood in the school which they call mentor. You can ask some naive questions if you want.
+  - Set4ANU @Marie Reay(MR) L6: Basically a face to face chat with old blood in the school which they call mentor. You can ask some naive questions if you want.
   - Commencement Speech @University Avenue: Sit there and hope you are tall enough to see the face of the vice chancellor.
   - Free Gym Tour @ANU Sport: Free to hire facilities before 2pm!
   - Chifley Tour @Chifley: this form is a little unexpected.
   - End up in Chifley for the rest of my day at school: Thinking about how to enroll in the courses in a way that makes sense...
 - My day 2:
+  - Road: first encounter of congestion on road
+  - Fake News @MR L5: It's a useful introduction to help you spot fake news and use some fundamental rules like TRAAP.
+  - Using Sources @MR L5: Basically it taught you how to use others' work as references in your essay correctly, including quoting, paraphrasing, summarising. 
+  - CECS Welcome Lunch @Hanna Newmann: Boring. Except for the fire alarm which usually is false.
+  - Find Part-time & Casual Work @MR L2: General info and suggestions for fresh year students.
+  - Work in Australia @MR L2: Australian way of work attitudes and how to modify your CVs with Australian flavour(eg: no DOB, address recommended, referees contacts...)
+  - End up again at Chifley. But it'll be nice to check Hancock library next time since hot food is allowed there and books regarding to computer science are located there. 
 - My day 3:
 - My day 4:
 - My day 5:
@@ -85,9 +92,39 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 
 
 
+## Employment
+
+### Chances offered
+
+- CareerHub: https://careerhub.anu.edu.au
+- Online guide for international students: https://www.ieaa.org.au/research/employability
+
+- ANU careers opportunities: https://www.anu.edu.au/students/careers-opportunities/careers
+
 ## Useful Tools
 
-### Wechat mini programs:
+### Wechat mini programs
+
+- 信息港
+
+### Library Resources
+
+- General info at ANU library: https://anulib.anu.edu.au
+
+- How to spot fake news: https://guides.library.harvard.edu/fake
+- Evaluating sources: https://libguides.anu.edu.au/evaluating-sources
+- On site training workshops: 
+  -  https://anulib.anu.edu.au/news-events/events-exhibitions 
+  -  https://www.eventbrite.com.au/o/anu-library-7481894195
+- Refine your search skills: https://libguides.anu.edu.au/c.php?g=906017&p=6628409
+
+### Others
+
+- When holding a group meeting, there is an interactive presentation software for voting: Mentimeter. https://menti.com
+- When there is need for Q&A through web/phone after the speech: https://www.vevox.com
+- Looking for events nearby to attend: https://www.eventbrite.com.au
+- Video meetings: https://zoom.us
+- 
 
 ### 
 
