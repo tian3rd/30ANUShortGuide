@@ -8,3 +8,6 @@ Websites:
 6. ANU Academic Misconduct Rule 2015: https://www.legislation.gov.au/Details/F2015L02025
 7. More about Turnitin: https://www.anu.edu.au/students/academic-skills/academic-integrity/turnitin
 8. ANU Online - Turnitin details: https://services.anu.edu.au/information-technology/software-systems/turnitin
+9. Harvard referencing: https://www.anu.edu.au/students/academic-skills/academic-integrity/referencing/harvard
+10. Monash referencing: https://guides.lib.monash.edu/citing-referencing
+11. 
