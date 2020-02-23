@@ -66,6 +66,25 @@ Unilodge:
 
 
 
+## Food Around
+
+### Anything free?
+
+- Free breakfast every weekday throughout the term: https://parsa.anu.edu.au/studentsupport/supportservices/bkssservices/ You can enjoy a breakfast every weekday at the second floor of the student centre. Milk, break, hot chocalate, etc. 
+- Events: look out for events held by all kinds of students associations, because they usually give out free food to students. Location's usually at the university avenue.
+
+### Microwave ovens
+
+- Locations where they have microwave ovens: 
+  - Marie Reay Teaching Centre Level 1
+  - Student Centre Level 2 @ Brian Kenyon Student Space
+
+- If you are addicted to microwave oven: there are plenty of quick food you can prepare using just microwave oven. For example, frozen vegetables to 
+
+### Bargins
+
+- 
+
 ## Transportation
 
 ### Bus 
@@ -79,6 +98,8 @@ Second, show the clerk your e-CoE or your student card to upgrade your card to s
 For students, on school days it's charged $$1.22/trip; on non-school days it's $1.61/trip. See more: https://www.transport.act.gov.au/tickets-and-myway/fares 
 
 ### Railway
+
+- Light rail:
 
 ### Bike
 
@@ -95,6 +116,7 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - [Parking options on Acton campusOther info](https://services.anu.edu.au/campus-environment/transport-parking/parking-options-on-acton-campus)
 
 - Parking Map: https://services.anu.edu.au/files/guidance/ANU_Designated_Parking_Map_October_2019.pdf Pink and blue areas which are Permit only or Pay as you go places are fine to park on. 
+- Motorcycle parking in Canberra: http://www.canberramotorbikeparking.net
 
 ### How to get your Australian licence?
 
@@ -164,7 +186,10 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - Looking for events nearby to attend: https://www.eventbrite.com.au
 - Video meetings: https://zoom.us
 - ANU VPN: https://services.anu.edu.au/information-technology/login-access/virtual-private-network-0?from=singlemessage
-- 
+- Online research and surveys/questionnaires: https://qualtrics.com
+- English Learning: 
+  - Test your vocabulary: http://testyourvocab.com
+- International student guide: https://www.studycbr.com.au
 
 ### 
 

@@ -11,6 +11,7 @@ Academic Skills offers all ANU students, regardless of level, the following serv
 - **Learning Advisers:** We work with longer and more complex pieces of writing. We also help with other aspects of the research process, from managing milestones to presenting and publishing. Mon-Fri, 9-5, booked online
 - **Online resources** and handouts on our website.
 - [Turnitin Practice Site](http://www.anu.edu.au/students/learning-development/academic-integrity/turnitin) (Wattle), Submit your drafts to the practice site to check the integrity of your writing and learn how to interpret the similarity report. 
+- Book an appointment: https://www.anu.edu.au/students/academic-skills/appointments/academic-skills-writing-centre
 
 ### Our website: [www.anu.edu.au/academicskills](https://www.anu.edu.au/academicskills)
 
