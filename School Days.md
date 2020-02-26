@@ -1,3 +1,7 @@
+# All things Happed at school
+
+> This is an experiment diary to record my days at school. The idea is that if I pay so much to get back to school again, I better make use of every minute while at it. 
+
 ## Oweek
 
 
@@ -41,9 +45,47 @@ My day 5: Slept over. Will spend most of my time in library.
 
 ### Monday
 
+- 9-11: Diagnostic Test @HN1.23 - Listening is a little hard to get it all. A lot of summarizing and referencing. Gotta get 75% to get an exemption and I'm not optimistic.
+- 11-12: Math @Llewellyn
+- 4-6: 6710 @Copland
+
 ### Tuesday
 
+- 8-9: PP1 @Coombs - 
+- 12-2: 6340 @Coombs - 
+- 2-3: Math @Llwellyn - 
+- 4-6: 6710 Lab @N109 - 
+- 7.30-9.30: Movie @Kambri Cenima - 
+
+- Java homework J01: read from console. Try to use BufferedRead class.
+
+- ```java
+  import java.io.BufferedReader;
+  import java.io.IOException;
+  import java.io.InputStreamReader;
+  import java.util.Scanner;
+  
+  public class Greet {
+      public static void main(String[] args) throws IOException {
+  //        Scanner scanner = new Scanner(System.in);
+  //        String name = scanner.nextLine();
+  ////        System.out.print("Hi, "+name+"!");
+          BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+          String name = reader.readLine();
+          System.out.println("Hi "+name+"!");
+      }
+  }
+  ```
+
+- 
+
 ### Wednesday
+
+- 10-11.30: ANU+ @ DRSC 4.50
+- 2-4: 6340 Lab - setting up virtual machines on lab computers. Problems: scratch cloud disk got full and cannot install new vm. Contact professionals for help if this happens again next time. Try it on Friday.
+- VM: extra anu [cecs source]( https://cs.anu.edu.au/docs/student-computing-environment/linuxlabs/softwareaccess/virtualmachine/ ); [course source download](https://cloudstor.aarnet.edu.au/plus/s/FEhtnfbpufo7MJq/download)
+- Install vm on mac: [download virtualbox](https://www.virtualbox.org/wiki/Downloads)
+- 
 
 ### Thursday
 
