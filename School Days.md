@@ -55,7 +55,7 @@ My day 5: Slept over. Will spend most of my time in library.
 - 12-2: 6340 @Coombs - 
 - 2-3: Math @Llwellyn - 
 - 4-6: 6710 Lab @N109 - 
-- 7.30-9.30: Movie @Kambri Cenima - 
+- 7.30-9.30: Movie @Kambri Cenima - “Official Secrets" ★★★☆☆
 
 - Java homework J01: read from console. Try to use BufferedRead class.
 
@@ -82,12 +82,32 @@ My day 5: Slept over. Will spend most of my time in library.
 ### Wednesday
 
 - 10-11.30: ANU+ @ DRSC 4.50
-- 2-4: 6340 Lab - setting up virtual machines on lab computers. Problems: scratch cloud disk got full and cannot install new vm. Contact professionals for help if this happens again next time. Try it on Friday.
+
+- 2-4: 6340 Lab - setting up virtual machines on lab computers. Problems: ~~scratch cloud disk got full and cannot install new vm. Contact professionals for help if this happens again next time. Try it on Friday.~~ Solved it on Friday.
+
 - VM: extra anu [cecs source]( https://cs.anu.edu.au/docs/student-computing-environment/linuxlabs/softwareaccess/virtualmachine/ ); [course source download](https://cloudstor.aarnet.edu.au/plus/s/FEhtnfbpufo7MJq/download)
+
 - Install vm on mac: [download virtualbox](https://www.virtualbox.org/wiki/Downloads)
-- 
+
+  
 
 ### Thursday
 
+- 11-12: Math @Ll - need to preview next week.
+- 4-6: PP1 @MR 6.02 - Di
+- 7.30-9.30: Movie "1917" ★★★★☆ 
+
 ### Friday
+
+- 11-12: 6710 @ Copland - The progress of lecture is fairly slow. Got the first assignment due on 13th next month. 
+- 2-4: 6340 Lab @ N113 (actually 3-4.30) - fixed the storage and logging problem on Wedsnday
+- 7.30 - 11.15: Movies "Pavarrotti" ★★★★★  and "Judy & Punch" ★★☆☆☆
+
+
+
+### Saturday
+
+- On my way to school: Lessons when riding a bike - when turning on the road, make sure to slow down down down!!! About the amber/yellow light flashing duration: "On most major roads with a speed limit up to 60 km/h the yellow or amber light is displayed for four seconds." refer more on [this site](https://www.mynrma.com.au/cars-and-driving/driver-training-and-licences/resources/will-i-get-fined-for-driving-through-an-amber-traffic-light)
+- Review of the week: in progress
+- 5-10: Movies - "Jumanji" ★★☆☆☆ "Little Women"★★★☆☆
 
