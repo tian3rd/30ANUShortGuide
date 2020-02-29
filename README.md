@@ -10,6 +10,11 @@
 
 ### eCoE:
 
+## [University Canlenda](https://www.anu.edu.au/directories/university-calendar)
+
+- Oweek:
+- Semester 1 commences:
+
 
 
 ## [Oweek](https://orientation.anu.edu.au/program)
@@ -159,7 +164,9 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - Writing:
   - https://anu.edu.an/academicskills, book online.
   - Location: Di Riddell Student Centre, L3
-- 
+- Mentoring Program
+  - [1st year mentoring program](https://docs.google.com/forms/d/e/1FAIpQLSe-clXQ3zJRYsi-DYHF1EhJUGs6nyiKlkRlS2xHuVn7mlfLFQ/viewform?fbzx=-8127269395536733842) by [Fifty50](https://fifty50.org.au/programs/). Additional: facebook.
+  - 
 
 ## Useful Tools
 
