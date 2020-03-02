@@ -33,6 +33,11 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
 ### COMP6340 Networked Information System
 
 - Lab
+  - Lab 1 - from Wattle
+    - Step 1. Please watch the following video to familiarise yourself with the aim of the lab, its key concepts, and learning outcome: https://cloudstor.aarnet.edu.au/plus/s/ZEqMkgEqdNKMtw3
+    - Step 2: Please download, read, and work on the Computer Lab 1 handout available[ here](https://wattlecourses.anu.edu.au/pluginfile.php/2259395/mod_folder/content/0/Computer Lab 1 (Week 1).docx?forcedownload=1). 
+    - Step 3: Please allow us to help you via a video by walking through some of the key parts of the lab: https://cloudstor.aarnet.edu.au/plus/s/MUxS1us7XOiFDmJ
+    - Step 4: Discuss the lab topics in the Piazza forum
   - Lab 1 - Week 1 - Trobleshooting (by Xinghao Li from piazza)
     - Cannot login to the Lab Machine
       - Solution: Go to https://cs.anu.edu.au/streams/login.php, log in, and wait for 10 minutes, then try again.
