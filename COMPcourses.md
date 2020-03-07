@@ -13,6 +13,11 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
 - Visualizaition tools: the [Waterloo Java Visualizer](https://cscircles.cemc.uwaterloo.ca/java_visualize/)
 - Intro to Java: the [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
 - Academic integrity: [FAQ](https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality)
+- Week 2:
+  - Static key word: https://www.geeksforgeeks.org/static-keyword-java/
+  - Repeat a string: https://stackoverflow.com/questions/1235179/simple-way-to-repeat-a-string-in-java
+  - Lab 2 : 
+  - 
 
 ### COMP6250 Practical Practice 1
 
@@ -63,9 +68,36 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
 
 
 
+## Third Semester
+
+### Considering doing the [Personal Project Internship COMP8830](https://programsandcourses.anu.edu.au/2020/course/COMP8830)
+
+- Requirements (More details on CECS web: https://cecs.anu.edu.au/current-students/opportunities ): 
+  - Apply and interview 1 semester in advance (Request for a Degree Health Check with CECS Student Services)
+  - Pre-reqs: [PP2 COMP8260](https://programsandcourses.anu.edu.au/2020/course/COMP8260) and [Software Construction COMP6442](https://programsandcourses.anu.edu.au/2020/course/COMP6442)
+  - GPA: >=5
+  - 12 units space in one semester without overloading
+  - Preferable: [Managing Software Projects in a System Context COMP8110](https://programsandcourses.anu.edu.au/2020/course/COMP8110)
+- Key Dates e.g.:
+  - 2nd & 3rd week: 04/032020 and 10/03/2020 - Information Session
+  - 4th week: 16/03/2020 - Application open
+  - 6th week: 30/03/2020 - Application close
+  - 8th week: 27/04/2020 to 30/04/2020 - Initial interviews with coures convenor
+  - 9th and 10th week: 04/05/2020 - 15/05/2020 Host interviews
+  - After 10th week: Placements offered
+  - A month later: 27/06/2020 Placements begin
+- More FAQ: https://cecs.anu.edu.au/engage/computer-science-internship-program
+
 ## My Specialization
 
 ### Data Science
 
+## More
 
+### COMP6780 Web Development
+
+- Week 2:
+  - cc: https://ccsearch.creativecommons.org
+  - VARK: https://vark-learn.com
+  - 
 
