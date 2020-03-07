@@ -111,3 +111,91 @@ My day 5: Slept over. Will spend most of my time in library.
 - Review of the week: in progress
 - 5-10: Movies - "Jumanji" ★★☆☆☆ "Little Women"★★★☆☆
 
+
+
+### Sunday
+
+- Cannot remember...
+
+
+
+## Week 2
+
+### Monday
+
+- 11-12: MATH
+- 12-1: Web development class. Most of the time it centers on the copyright of web contents such as how to reference a picture from other's under a certain type of certification.
+- 1-2: Lunch @McDonald
+- 2-3: Coding with Core Java examples
+- 4-6: 6710
+- 6-8: newsreading and dinner @MR
+- 8-9: Math homework
+- 9-after: go back and fill gas
+
+### Tuesday
+
+- 8-9: PP1
+- 9-10: Plan and review
+- 10-12: Plan to preview contents of NIS, but fail to do so
+- 12-2: NIS
+- 2-3: Math
+- 3-4: Coding practice
+- 4-6: Stuck in the 6710 lab
+- 6-7: GOOGLE @MR6.02
+- 7.30-9.30: Movie The Trouble with You ★★★☆☆
+- 9.30: Go back and waste my time
+
+### Wednesday
+
+- Get up late in the morning
+- 10-11: CS Internship Session
+- 11-12:30: Time passes quickly
+- 12.30-1: Planning
+- 1-2: Java homework and basics
+- 2-4: 6250 tutorials @Peter Baume Green Couch Room. Miss the Quantium Employer Visits @MSI 145 1.33
+- 4-6: Quizzes of PP1 and NIS
+- 6-7: Continue Java
+- 7-8: Dinner and reading
+- 8-10: Take notes of Java from Core Java
+- 10-after: Go back by bus and waste time
+
+### Thursday
+
+- Another late morning, and it's raining outside. Motorcycle to school feeling like shit because I'm soaked and the rain hitting on my face at 80km/h.
+- 11-12: Math
+- 1-3: Industry panel of DXC and Accenture and Australian Bureau of Statistics. Record half of the session.
+- 3-5: Study group @Chifley 4.05
+- 7.30-9.15: Movie Sorry We Missed You ★★★★☆
+- 9.15-after: Again make a mistake of going back directly after the movie and lose track of my plan.
+
+### Friday
+
+- Yet again a late morning.
+- 11-12: 6710
+- 12-12.30: Some talking and sharing info between peers and friends after class.
+- 12.30-3: I don't know what I am doing
+- 3-4: Quizzes for 30 minutes and some planning
+- 4-5: NIS tutorial. Big problem of not previewing materials beforehand. 
+- 5-6.30: Some chatting and get to know some more friends.
+- 7.30-10: Study with a friend.
+- 10-after: Back and talk with a friend via Telegram
+
+### Saturday
+
+- 10-3: Get up and have breakie. Lazy morining. Laundry and change the mobile phone service provider back to Optus
+- 3-4: Lunch and Family call
+- 4-5: Ride to school
+- 5-6.30: Movie
+- 6.30-10:30: @Chifley Library
+
+### Sunday 
+
+- 
+
+### Weekly summary
+
+- Stay true to yourself
+- Don't feel ashamed because of some vanity-related reasons
+- Life is short, if you don't stick to the plan and keep going towards it.
+- Don't forget that school days are simple in terms of the purpose and agenda. Once you get out, there will be a whole new situation which is exhausting. So appreciate it and make it worth. 
+- After watching the movies, better have something to eat and go back to the library. Or it's a waste of time if you just go back home and give yourself an excuse to relax.
