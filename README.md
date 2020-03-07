@@ -126,7 +126,7 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 
 - HDR office:
 - Student employability manager: https://cecs.anu.edu.au/people/janelle-ireland
-- CECS opportunities page: https://cecs.anu.edu.au/current-students/opportunities not useful
+- CECS opportunities page: https://cecs.anu.edu.au/current-students/opportunities sometimes useful (e.g. attended a [Computer Science Internship Information Session](https://cecs.anu.edu.au/current-students/computer-science-internship-information-session) on 04/03/2020, which introduced the process to get enrolled in personal project internship [COMP8830](https://programsandcourses.anu.edu.au/2020/course/COMP8830)) 
 
 ### Statistics
 
