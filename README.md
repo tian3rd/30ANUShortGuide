@@ -10,6 +10,11 @@
 
 ### eCoE:
 
+### Visa Requirements: 
+
+- Meeting the Australian study requirement: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/australian-study-requirement
+- INTERNATIONAL EDUCATION UNIT GUIDELINES FOR STUDENTS HOLDING A SUBCLASS 500 (SCHOOL SECTOR) VISA: https://www.education.act.gov.au/__data/assets/pdf_file/0004/422761/Students-on-Subclass-500-School-Sector-Visa-Guidelines_2019.pdf
+
 ## [University Canlenda](https://www.anu.edu.au/directories/university-calendar)
 
 - Oweek:
@@ -30,6 +35,13 @@ There is a use online course on wattle which you can enroll for free to get faml
 ### Course suggestions: 
 
 ### Detailed info on websites:
+
+### Underload or Overload: 
+
+- Reducing your study load as an international student: https://www.anu.edu.au/students/program-administration/program-management/reducing-your-study-load-as-an-international
+- Course study load and overloading: https://law.anu.edu.au/course-study-load-and-overloading
+- Overload your enrolment: https://www.anu.edu.au/students/program-administration/enrolment/overload-your-enrolment
+- Policy: Student academic study load and progression: https://policies.anu.edu.au/ppl/document/ANUP_002611
 
 
 
