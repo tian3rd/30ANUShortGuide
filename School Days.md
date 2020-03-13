@@ -190,7 +190,7 @@ My day 5: Slept over. Will spend most of my time in library.
 
 ### Sunday 
 
-- 
+- Sadly I cann't remember what I did. Possibly slept it over.
 
 ### Weekly summary
 
@@ -199,3 +199,65 @@ My day 5: Slept over. Will spend most of my time in library.
 - Life is short, if you don't stick to the plan and keep going towards it.
 - Don't forget that school days are simple in terms of the purpose and agenda. Once you get out, there will be a whole new situation which is exhausting. So appreciate it and make it worth. 
 - After watching the movies, better have something to eat and go back to the library. Or it's a waste of time if you just go back home and give yourself an excuse to relax.
+
+## Week 3
+
+### Monday(Public Holiday: Canberra Day)
+
+- 11.30-1: Fixed Assignment 1 errors and reviewed the Java codes for Lab test
+- 1-3: Tried to figure out what's wrong with Lab test Question 1: setting up Java environment and test units. Need to click "Edit Configurations" beside the green hammer and select the corresponding file in the "Use classpath as module".
+- 3-5: Core Java Notes and discussion with friends
+- 5-8: More discussions on Ass1
+- 8-9: Dinner and social media browsing
+- 9-10: PP1 preview + PP1 quiz (Concerning Academic Integrity)
+- 10-11: Tried to preview NIS, but probably failed to do so.
+
+### Tuesday
+
+- Busiest day of the week!
+- 8-9: PP1 lecture
+- 9-11: PP1 tutorial @PB Green Couch Room. Discussed how to write an essay with the right referencing style. There is a difference between paraphrasing and summarisation. When paraphrasing, the key idea is to express a specific sentence in my own words, whereas summarization is to summarize the idea of an article.
+- 11-12: Lunch @McDonald's
+- 12-2: 6340 NIS @Coombs Theatre. Talked about the application layer and so on.
+- 2-3: Math @Ll
+- 3-4: Prepared for the Lab test and got a sticker of "Viruses don't discriminate, neither should we" at the 2nd floor in the CSIT building.
+- 4-5: Lab test
+- 5-6: Discussion with friend about Java
+- 6-7: Planned to have dinner and do some Java reading. But probably failed to do both.
+- After: Watched a free women's boxing fighting game ending with a victory of a Chinese girl defending her championship successfully. It looked extremely painful to hit each other with bare hands.
+
+### Wednesday
+
+- Late morning. Got my 2 magazines from the reception at Unilodge. Wondered why the staff asked me for my contract files the second time.
+- 11-12: Rode to school and did some planning for the day
+- 12-1.30: Java Task 11 referencing
+- 1.30-2: News reading
+- 2-4: Tried to figure out the NIS week 3 lab. Stuck in the Internet connection in the virtual machine. (Solved it two days later and found a simple way in the lab)
+- 4-4.30: Read about the bfs in the Algs 4th Ed.
+- After 4.30: Probably got sucked into the algorithms and lost track of time. Still, couldn't find out a way to solve it. 
+
+### Thursday
+
+- Got up late and rode to school
+- 11-12: Math lecture @Ll
+- 12-1: Tertiary to work tour only to find that all of the tech companies in Canberra require the PR or citizenship. Later after chatting with friends there is a skill to avoid it by not asking about it first. Unless the recruiters talk about it first, you don't talk about it or you will throw them a hard choice to them and offer them an excuse to turn you down. 
+- 1.30-3: Math workshop/tutorial @HN1.27
+- 3-5: COMP study group meeting on the 4th floor @Chifley
+- 5-7.30: Standing chat between friends out the library. ; )
+- 9-11: Sad immi story of a friend. And some discussions on coding.
+- 11.30-after: lost track of time chatting via telegram. 
+
+### Friday
+
+- Reluctant to get up at 7 in the morning. Big mistake not bringing water bottle.
+- 8-10: Math workshop@HN4.41
+- 10-11: Debugged with a friend.
+- 11-12: 6710 lecture
+- 12-1: Lunch @MR
+- 1-2: Watched a video online before the lab and catched a short snap on the desk
+- 2-4: NIS lab setting up wireshark to monitor the communications between local pc and remote server.
+- 4-5: NIS tutorial discussing different layers in the Internet model such as 2-tier, 3-tier model and client-server model and thin/thick (forgot how to say this jargon...).
+- 5-6: Big mac @McDonald's
+- 6-6.30: Some planning and review
+- 6.30-8.30: Chatting via IM
+- 8.30-10: Writing this and that.
