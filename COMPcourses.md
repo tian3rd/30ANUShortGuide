@@ -61,7 +61,23 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
     - Difference between OVA and OVF: https://sites.google.com/site/vblog77/notes/ovf-ova
     - My own problems: Everyone has a free download space of up to 5 GB, so when I download files that add up to 5 GB, the PC crashes and force me to log out. The way to deal with it is to delete the files and use the scratch folder instead which has more than 100 GB in the cloud.
     - Extra resource: Virtual Box VM file link: https://cloudstor.aarnet.edu.au/plus/s/FEhtnfbpufo7MJq
-  - Lab 2 - Week 3 - 
+  - Lab 2 - Week 3 - Troubleshooting
+    - VirtualBox terminal connection failed(because of network unreachable): ref to https://www.virtualbox.org/manual/ch06.html#natforward . 
+      - Simple answer: change network setting in VB to "Bridged Adapter - en0: Wi-Fi(Airport)". More: [StackExchange](https://askubuntu.com/questions/1028494/network-is-unreachable-error-virtualbox-mininet-ubuntu-image) 
+      - Another place to check (this is under NAT): Click the menu bar "Device" --> "Network" --> and click the "Connect the network adapter".
+    - How to check the network connection:
+      - ifconfig
+      - ping 8.8.8.8
+      - ip addr
+    - How to run firefox from command line?
+      - type -a firefox: to find the path
+      - type the path or firefox
+      - Ref: https://www.cyberciti.biz/faq/howto-run-firefox-from-the-command-line/
+    - Fail to fetch problem when sudo apt-get install [wireshark](https://www.wireshark.org/docs/)
+      - First check to ensure that the Internet connection is ok, or turn to the first troubleshooting to get it fixed
+      - If the Internet is OK, try sudo apt-get update
+    - [How to Fix ‘E: Could not get lock /var/lib/dpkg/lock’ Error in Ubuntu Linux](https://itsfoss.com/could-not-get-lock-error/): it's because the ubuntu system is checking updates and lock the install processes from other sources to avoid potential conficts. Just wait for a few moments and it'll be fine.
+    - 
 - Tutorial
 
 ### Math6005 Concrete Maths
