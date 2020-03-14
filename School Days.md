@@ -240,7 +240,7 @@ My day 5: Slept over. Will spend most of my time in library.
 
 - Got up late and rode to school
 - 11-12: Math lecture @Ll
-- 12-1: Tertiary to work tour only to find that all of the tech companies in Canberra require the PR or citizenship. Later after chatting with friends there is a skill to avoid it by not asking about it first. Unless the recruiters talk about it first, you don't talk about it or you will throw them a hard choice to them and offer them an excuse to turn you down. 
+- 12-1: Tertiary to work tour only to find that all of the tech companies in Canberra require the PR or citizenship. Later after chatting with friends there is a skill to avoid it by not asking about it first. Unless the recruiters talk about it first, you don't talk about it or you will throw them a hard choice to them and offer them an excuse to turn you down. The other thing is that it's an option to study online for cloud-based technologies from Amazon or Microsoft to get certificates to add to the resumes. Fact is that it's possible to get a job offer with fluent English communications, solid backgrounds, relevant projects/experience and the passion about the role as early as the immigration department processing my PR application. It's probable to get a shot at the start-ups with the same requirements except for the citizenship/PR restrictions. So do my work   and focus on the career ambitions, improve the things I can improve and leave the rest to worry in the dreams only.
 - 1.30-3: Math workshop/tutorial @HN1.27
 - 3-5: COMP study group meeting on the 4th floor @Chifley
 - 5-7.30: Standing chat between friends out the library. ; )
@@ -261,3 +261,9 @@ My day 5: Slept over. Will spend most of my time in library.
 - 6-6.30: Some planning and review
 - 6.30-8.30: Chatting via IM
 - 8.30-10: Writing this and that.
+
+### Saturday
+
+- 8-4: Attended the Pre-Provisional motorcycle course, but failed to do the head-checks and crossed the yellow line in the U-turn, so I need to book another MOST re-test again within a month. 
+- 5-6: Planning... Booked a re-test on 27/03/2020(Friday).
+- 
