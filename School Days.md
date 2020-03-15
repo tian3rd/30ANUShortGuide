@@ -266,4 +266,15 @@ My day 5: Slept over. Will spend most of my time in library.
 
 - 8-4: Attended the Pre-Provisional motorcycle course, but failed to do the head-checks and crossed the yellow line in the U-turn, so I need to book another MOST re-test again within a month. 
 - 5-6: Planning... Booked a re-test on 27/03/2020(Friday).
-- 
+- 7-9: Weekly shopping
+
+### Sunday
+
+- Late morning till 12 
+- 2-2.30: Laundry
+- 4-7.30: Math assignment1 and worksheet2
+- 7.30-8: Dinner
+- 8-10.30: Read two articles struggling with a 200-word paragraph for PP1; Read some contents from book *Clean Code*
+- 10.30-11: Social Media
+- 11-After: Go back
+
