@@ -98,6 +98,8 @@ For students, on school days it's charged $$1.22/trip; on non-school days it's $
 
 ### What if you want to get a car?
 
+#### Parking
+
 - [Parking at ANU](https://services.anu.edu.au/campus-environment/transport-parking/parking-fees-and-infringement-penalties)
 
 Generally speaking, for students with students permits, it's $1.21(GST incl) every day. If you ride a motorcycle, then your can park your motorbike in designated motorbike spaces for free. 
@@ -107,10 +109,17 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - Parking Map: https://services.anu.edu.au/files/guidance/ANU_Designated_Parking_Map_October_2019.pdf Pink and blue areas which are Permit only or Pay as you go places are fine to park on. 
 - Motorcycle parking in Canberra: http://www.canberramotorbikeparking.net
 
-### How to get your Australian licence?
+#### How to get your Australian licence?
 
 - If you have your C licence in your original country, then you may get a full licence depending on your age and hometown.
 - If you want to start from scratch, there are also lots of options to get your licence.
+
+#### Are there other costs?
+
+- Rego costs for motorcycle and vehicles: [About `$900/year` for a family vehicle, `$300/year` for a motorcycle under 300cc and `$600/year` for a motorcycle above 300cc](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/694/~/motor-vehicle-registration-and-renewal#!tabs-9). 
+- Gas: [Gas Buddy](https://apps.apple.com/au/app/gasbuddy-find-cheap-gas/id406719683) to track the price 
+- Service: Every 5000-10000km
+- Insurance
 
 ## Sports
 
@@ -209,6 +218,12 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - English Learning: 
   - Test your vocabulary: http://testyourvocab.com
 - International student guide: https://www.studycbr.com.au
+
+#### Lifestyle around
+
+- Music: [iTunes Billboards](https://kworb.net/charts/)
+- Movies/TV Dramas: [CheapCharts](https://www.cheapcharts.info/au/itunes/seasons/on-sale)
+- 
 
 ### 
 

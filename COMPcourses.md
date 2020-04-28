@@ -102,7 +102,9 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
   - 9th and 10th week: 04/05/2020 - 15/05/2020 Host interviews
   - After 10th week: Placements offered
   - A month later: 27/06/2020 Placements begin
-- More FAQ: https://cecs.anu.edu.au/engage/computer-science-internship-program
+- More FAQ:
+  -  https://cecs.anu.edu.au/engage/computer-science-internship-program
+  - https://cecs.anu.edu.au/current-students/opportunities-and-projects/professional-development/internships/computing
 
 ## My Specialization
 

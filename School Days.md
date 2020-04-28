@@ -278,3 +278,26 @@ My day 5: Slept over. Will spend most of my time in library.
 - 10.30-11: Social Media
 - 11-After: Go back
 
+## Week7
+
+### Monday (Public Holiday)
+
+### Tuesday
+
+- 8.30-9: Up
+- 9-11: PP1 Design Thinking
+- 11-12: Brunch
+- 12-1: Shooting hoops
+- 1-1.30: Shower
+- 1.30-4: PP1 Lectures on Echo360 and prep for CT3
+- 4-6.30: Java Lab
+- 6.30-7: Dinner
+- 7-9: PP1 Zoom meeting Group 2A and CT3 finished
+- 9-11.30: Soul app wasting time chatting in Chinese
+- 11.30-0: Review
+
+### Wednesday
+
+- 7-8: Hoops
+- 8-9: Shower and 
+
