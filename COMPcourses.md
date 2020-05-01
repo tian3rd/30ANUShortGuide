@@ -43,6 +43,7 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
     - Step 2: Please download, read, and work on the Computer Lab 1 handout available[ here](https://wattlecourses.anu.edu.au/pluginfile.php/2259395/mod_folder/content/0/Computer Lab 1 (Week 1).docx?forcedownload=1). 
     - Step 3: Please allow us to help you via a video by walking through some of the key parts of the lab: https://cloudstor.aarnet.edu.au/plus/s/MUxS1us7XOiFDmJ
     - Step 4: Discuss the lab topics in the Piazza forum
+    
   - Lab 1 - Week 1 - Trobleshooting (by Xinghao Li from piazza)
     - Cannot login to the Lab Machine
       - Solution: Go to https://cs.anu.edu.au/streams/login.php, log in, and wait for 10 minutes, then try again.
@@ -61,6 +62,7 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
     - Difference between OVA and OVF: https://sites.google.com/site/vblog77/notes/ovf-ova
     - My own problems: Everyone has a free download space of up to 5 GB, so when I download files that add up to 5 GB, the PC crashes and force me to log out. The way to deal with it is to delete the files and use the scratch folder instead which has more than 100 GB in the cloud.
     - Extra resource: Virtual Box VM file link: https://cloudstor.aarnet.edu.au/plus/s/FEhtnfbpufo7MJq
+    
   - Lab 2 - Week 3 - Troubleshooting
     - VirtualBox terminal connection failed(because of network unreachable): ref to https://www.virtualbox.org/manual/ch06.html#natforward . 
       - Simple answer: change network setting in VB to "Bridged Adapter - en0: Wi-Fi(Airport)". More: [StackExchange](https://askubuntu.com/questions/1028494/network-is-unreachable-error-virtualbox-mininet-ubuntu-image) 
@@ -77,8 +79,24 @@ Website link: https://programsandcourses.anu.edu.au/2020/program/7706XMCOMP#care
       - First check to ensure that the Internet connection is ok, or turn to the first troubleshooting to get it fixed
       - If the Internet is OK, try sudo apt-get update
     - [How to Fix ‘E: Could not get lock /var/lib/dpkg/lock’ Error in Ubuntu Linux](https://itsfoss.com/could-not-get-lock-error/): it's because the ubuntu system is checking updates and lock the install processes from other sources to avoid potential conficts. Just wait for a few moments and it'll be fine.
-    - 
+    
+  - Lab4: Week 7 Review
+  
+    - Setting up VPN: https://drive.google.com/file/d/1KBD0-9nI2-gFDgaeBt5VoxKqJSi_2Pwr/view
+  
+    - Using [ANU reverse proxy](https://login.virtual.anu.edu.au/menu): 
+  
+      - > The reverse proxy gives ANU students, staff and affiliates off-campus access to many online ANU services, websites, and electronic journals and databases subscribed to by the ANU Library.
+  
+    - Openpgp encryption: 
+  
+    - Using [Nectar Research Cloud](https://dashboard.rc.nectar.org.au/project/) to create VMs
+  
+    - Apache network tutorials online (Teach yourself)
+  
 - Tutorial
+
+  - 
 
 ### Math6005 Concrete Maths
 
