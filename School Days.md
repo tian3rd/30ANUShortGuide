@@ -298,6 +298,29 @@ My day 5: Slept over. Will spend most of my time in library.
 
 ### Wednesday
 
-- 7-8: Hoops
-- 8-9: Shower and 
+- 7-8: Raining, wondering
+- 8-9: Breakfast
+- 9-11: Go back to sleep
+- 2-7: Record the PP1 video pitch 
+- Feeling blue and sleepy for the rest of the day
+
+### Thursday
+
+- Basically doing nothing meaningful
+- Late morning 
+- 4-9: Struggling to watch some math videos and handouts in the afternoon and completed most of the worksheet. I'll be damned to see the pigeon and pigeon hole problems after nearly two decades!!
+
+### Friday (Keeps raining for the last three days!!)
+
+- 8-10: Math workshop by John Donovan
+- 10-11: Blank
+- 11-12.30: Java online lecture by Josh about abstract data structures and unit tests
+- 12.30-1.30: Try to read the tutorial sheets on NIS
+- 1.30-2: Lunch
+- 2-4: Struggling to get a sense of doing network by attending the NIS lab. Lots to reflect. Lots to be improved if I do not want my time wasted on superfluous/superficial textbook knowledge.
+- 4-6: NIS tutorial about WAN and how VPN works. Needs more time on previewing the handouts next week.
+- 6-6.30: Workout using HomeCourt
+- 6.30-7.30: Discussion with peer
+- 7.30-10.30: Relaxing time after a dull and uninspiring week. Plus laundry.
+- 10.30-11: Review
 
