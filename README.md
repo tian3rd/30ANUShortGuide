@@ -113,12 +113,23 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 
 - If you have your C licence in your original country, then you may get a full licence depending on your age and hometown.
 - If you want to start from scratch, there are also lots of options to get your licence.
+  - The easiest way to know how it works, just google phrases like "access canberra get a driver license" or go to [*Access Canberra*](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/1581/~/act-driver-licence-information) yourself and make an inquiry
+  - Getting your L:
+    - Generally speaking, first you need to provide all necessary documents such as *passport* and *proof of residency* and so on
+    - Then sign up for a Pre-learner Licence course, including passing the ACT Road Rules based computerised knowledge test(If you want to get a motorcycle license, you also need to sign up for a Pre-learner License course for motorcycle and complete that course with a certificate as well)
+    - After completion, bring the documents and the certificates in exchange for you new L license
+  - Getting your P:
+    - There is a difference in getting a P for motorcycle and for cars
+    - Motorcycle: you need to sign up for a Pre-provisional course and complete the provisional training course and provisional licence assessment with a valid certificate. Afterwards, bring your L licence and the certificate to *Access Canberra* in exchange for the P licence which is upgraded automatically after the next renewal in three years(I know...). For more info: go to [*Access Canberra*](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/4515/~/act-motorcycle-licence-information#!tabs-4)
+
+
 
 #### Are there other costs?
 
 - Rego costs for motorcycle and vehicles: [About `$900/year` for a family vehicle, `$300/year` for a motorcycle under 300cc and `$600/year` for a motorcycle above 300cc](https://www.accesscanberra.act.gov.au/app/answers/detail/a_id/694/~/motor-vehicle-registration-and-renewal#!tabs-9). 
 - Gas: [Gas Buddy](https://apps.apple.com/au/app/gasbuddy-find-cheap-gas/id406719683) to track the price 
 - Service: Every 5000-10000km
+- All kinds of trivias in life(well that sucks!) such as your lock got jammed one day out of blue and you had to change the lock in the end. This cost me more than $500!
 - Insurance
 
 ## Sports
@@ -213,7 +224,9 @@ Generally speaking, for students with students permits, it's $1.21(GST incl) eve
 - When there is need for Q&A through web/phone after the speech: https://www.vevox.com
 - Looking for events nearby to attend: https://www.eventbrite.com.au
 - Video meetings: https://zoom.us
-- ANU VPN: https://services.anu.edu.au/information-technology/login-access/virtual-private-network-0?from=singlemessage
+- ANU [VPN](https://services.anu.edu.au/information-technology/login-access/virtual-private-network-0?from=singlemessage)
+  - Download [GlobalProtect](https://services.anu.edu.au/information-technology/login-access/remote-access/download-globalprotect-for-windows-or-mac)
+  - [How](https://servicedesk.anu.edu.au/kb_view.do?sysparm_article=KB0011639) to set up the service
 - Online research and surveys/questionnaires: https://qualtrics.com
 - English Learning: 
   - Test your vocabulary: http://testyourvocab.com
